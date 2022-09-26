@@ -1,0 +1,44 @@
+nav{
+    background-color: cadetblue;
+    padding: 15px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    width:auto;
+    height:auto;
+}
+#menu{
+    background: black;
+    padding:10px;
+    width: 70%;
+    float: left;
+}
+#menu > ul{
+    display:table;
+    margin: 5px auto;
+    padding: 0px;
+    float: right;
+}
+#menu >ul > li{
+    float: left;
+}
+#menu li{
+    list-style: none;
+}
+*{
+    background-image: url('imagens/etec.jpg');
+    width:max-content;
+    height: max-content;
+}
+
+header{
+    text-align: center;
+    margin-left:200px;
+    margin-right: 200px;
+    
+}
+.annita{
+    align-tracks: center;
+}
